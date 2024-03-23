@@ -2,8 +2,8 @@ import boto3
 import requests
 
 # 配置AWS凭据和区域
-aws_access_key = 'AKIAVLPPPWKDPE4QZB6K'
-aws_secret_key = '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'
+aws_access_key = 'AKIAVLPPPWKDPE4'
+aws_secret_key = 'YogbNrE0j/tQZCJ3bDlwbFJSB'
 aws_region = 'ap-southeast-1'
 
 # 配置Lightsail实例名称
